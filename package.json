@@ -1,0 +1,1 @@
+{"license": "", "description": "Adds a poke all button, to Facebook, to help you win your poke wars!", "contributors": [], "author": "danieldesira", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev28", "lib": "lib", "fullName": "FB Poke All", "main": "main", "id": "jid0-ifVKxNBHsAA8LWTZpBVWqzi6Ieo", "name": "fb-poke-all"}
